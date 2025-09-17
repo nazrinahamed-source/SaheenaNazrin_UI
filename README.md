@@ -1,7 +1,12 @@
-﻿# Saheena Nazrin – Personal Portfolio
 My live site : 'https://nazrinahamed-source.github.io/SaheenaNazrin_UI/'
+My Git repo : 'https://github.com/nazrinahamed-source/SaheenaNazrin_UI'
+ 
+ # Saheena Nazrin – Personal Portfolio
+
  responsive personal portfolio website built with **HTML** and **CSS** to showcase  
 Saheena Nazrin’s journey, hobbies, and professional projects.
+
+
 
 ## Features
 - Hero header with a full-screen Unsplash background image.
@@ -40,4 +45,5 @@ No build process is required.
 ---
 
 Created with plain HTML and CSS.
+
 
