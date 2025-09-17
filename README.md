@@ -1,6 +1,4 @@
-My live site : 'https://nazrinahamed-source.github.io/SaheenaNazrin_UI/'
-My Git repo : 'https://github.com/nazrinahamed-source/SaheenaNazrin_UI'
- 
+
  # Saheena Nazrin – Personal Portfolio
 
  responsive personal portfolio website built with **HTML** and **CSS** to showcase  
@@ -42,8 +40,12 @@ No build process is required.
 ## Links
 - [LinkedIn – Saheena Nazrin](https://www.linkedin.com/in/saheena-nazrin-k-412240b7/yourprofile)
 - [GitHub – nazrinahamed-source](https://github.com/nazrinahamed-source)
+ My live site : 'https://nazrinahamed-source.github.io/SaheenaNazrin_UI/'
+ My Git repo : 'https://github.com/nazrinahamed-source/SaheenaNazrin_UI'
+ 
 ---
 
 Created with plain HTML and CSS.
+
 
 
